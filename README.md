@@ -9,3 +9,5 @@ How to re-create screenshot:
   with [markdown](https://daringfireball.net/projects/markdown/) syntax.`
   ```
 - Width of `#wrapper` set to `720px`
+- `font-family: "IBM Plex Sans` or `Cantarell`
+- GIMP border: `1px #e2e2e2`
