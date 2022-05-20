@@ -11,3 +11,6 @@ How to re-create screenshot:
 - Width of `#wrapper` set to `720px`
 - `font-family: "IBM Plex Sans` or `Cantarell`
 - GIMP border: `1px #e2e2e2`
+
+How to recreated logo with border:
+`convert -bordercolor white -border 35 isso.svg isso-border.png`
