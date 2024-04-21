@@ -1,6 +1,11 @@
 ### Marketing for Isso
 
-How to re-create screenshot:
+At the moment, this repo serves mostly to document how to (re-) create the
+screenshot used in Isso's README.
+
+---
+
+## How to recreate screenshot for README
 
 - `comments.db` has example.data
 - Text is:
@@ -12,5 +17,6 @@ How to re-create screenshot:
 - `font-family: "IBM Plex Sans` or `Cantarell`
 - GIMP border: `1px #e2e2e2`
 
-How to recreated logo with border:
+## How to recreate Isso logo with border
+
 `convert -bordercolor white -border 35 isso.svg isso-border.png`
